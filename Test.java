@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package examples;
 
 import java.util.HashMap;
@@ -22,3 +23,4 @@ public class TEst {
 	}
  
 }
+
