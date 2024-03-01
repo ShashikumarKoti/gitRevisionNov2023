@@ -13,12 +13,12 @@ public class TEst {
 		}
 		
 		public void method2() {
-		line1 updated by dev
-		line2 updated by master
-		line3 updated by dev
+		line1 added by dev
+		line2 added by master
+		line3 added by dev
 		}
 			
 
 	}
-
+ 
 }
