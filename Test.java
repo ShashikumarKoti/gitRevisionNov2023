@@ -7,8 +7,7 @@ public class TEst {
 	public static void main(String[] args) {
 		
 		public void method1() {
-		line1 updated by master
-		line2 updated by dev
+	
 
 		}
 		
