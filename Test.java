@@ -6,12 +6,12 @@ public class TEst {
 
 	public static void main(String[] args) {
 		
-		public void dev1() {
+		public void method1() {
 		
 
 		}
 		
-		public void dev2() {
+		public void method2() {
 		
 		}
 			
