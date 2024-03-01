@@ -14,6 +14,10 @@ public class TEst {
 		public void method2() {
 		line2 updated
 		}
+
+		public void method3() {
+		
+		}
 			
 
 	}
