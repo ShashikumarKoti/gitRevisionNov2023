@@ -13,8 +13,7 @@ public class TEst {
 		}
 		
 		public void method2() {
-		line1 added by dev
-		line2 added by master
+		
 		}
 			
 
