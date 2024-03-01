@@ -12,7 +12,7 @@ public class TEst {
 		}
 		
 		public void method2() {
-		
+		line2 updated
 		}
 			
 
