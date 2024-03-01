@@ -14,6 +14,7 @@ public class TEst {
 		
 		public void method2() {
 		line1 updated by dev
+		line2 updated by master
 		}
 			
 
