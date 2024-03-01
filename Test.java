@@ -8,6 +8,7 @@ public class TEst {
 		
 		public void method1() {
 		line1 updated by master
+		line2 updated by dev
 
 		}
 		
